@@ -69,11 +69,12 @@ It will check for code formatting violations on every `push` to GitHub.
 
 ## Version
 
-The latest version of this action uses `clang-format` version 21.
+The latest version of this action uses `clang-format` version 22.
 Use older versions for specific `clang-format` versions.
 
 | Clang Version | Action |
 |---------|---------------|
+| 22 | RafikFarhad/clang-format-github-action@v7 |
 | 21 | RafikFarhad/clang-format-github-action@v6 |
 | 20 | RafikFarhad/clang-format-github-action@v5.1 |
 | 19 | RafikFarhad/clang-format-github-action@v5 |
