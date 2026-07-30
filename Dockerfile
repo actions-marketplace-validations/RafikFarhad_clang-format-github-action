@@ -1,4 +1,5 @@
-FROM silkeh/clang:22
+# FROM silkeh/clang:22
+FROM ghcr.io/rafikfarhad/clang:22
 
 LABEL maintainer="RafikFarhad<rafikfarhad@gmail.com>"
 
